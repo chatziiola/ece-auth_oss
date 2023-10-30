@@ -1,0 +1,45 @@
+/Users/thraller/Github/ece-auth_oss/oss_lab_1/quiz-1/myfiles/file10475/file10475.txt
+   8 tomato
+   8 chair
+   4 banana
+
+/Users/thraller/Github/ece-auth_oss/oss_lab_1/quiz-1/myfiles/file10472/file10472.txt
+  10 chair
+   7 banana
+   3 tomato
+
+/Users/thraller/Github/ece-auth_oss/oss_lab_1/quiz-1/myfiles/file10473/file10473.txt
+   8 chair
+   7 banana
+   5 tomato
+
+/Users/thraller/Github/ece-auth_oss/oss_lab_1/quiz-1/myfiles/file10474/file10474.txt
+  10 banana
+   6 chair
+   4 tomato
+
+/Users/thraller/Github/ece-auth_oss/oss_lab_1/quiz-1/myfiles/file10478/file10478.txt
+   8 banana
+   6 tomato
+   6 chair
+
+/Users/thraller/Github/ece-auth_oss/oss_lab_1/quiz-1/myfiles/file10471/file10471.txt
+   8 banana
+   6 tomato
+   6 chair
+
+/Users/thraller/Github/ece-auth_oss/oss_lab_1/quiz-1/myfiles/file10476/file10476.txt
+  10 tomato
+   6 banana
+   4 chair
+
+/Users/thraller/Github/ece-auth_oss/oss_lab_1/quiz-1/myfiles/file10477/file10477.txt
+   9 banana
+   7 chair
+   4 tomato
+
+/Users/thraller/Github/ece-auth_oss/oss_lab_1/quiz-1/myfiles/file10470/file10470.txt
+   9 tomato
+   6 chair
+   5 banana
+
