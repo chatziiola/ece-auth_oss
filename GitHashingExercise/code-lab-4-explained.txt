@@ -1,0 +1,41 @@
+Explaining what we have seen:
+
+./pipe_01 <NUMBER> runs the process creating <NUMBER CHILDREN> and then produces one line indicating the number of children being created,
+as well as one line "FATHER: I received from children" and "Hello"s from each children along with their ID
+
+Creating 21 children
+FATHER: I receiνed from children:
+
+Ηello from child  1 (pid=34972)
+Ηello from child  2 (pid=34973)
+Ηello from child  3 (pid=34974)
+Ηello from child  4 (pid=34975)
+Ηello from child  5 (pid=34976)
+Ηello from child  6 (pid=34977)
+Ηello from child  7 (pid=34978)
+Ηello from child  8 (pid=34979)
+Ηello from child 10 (pid=34981)
+Ηello from child  9 (pid=34980)
+Ηello from child 11 (pid=34982)
+Ηello from child 12 (pid=34983)
+Ηello from child 13 (pid=34984)
+Ηello from child 14 (pid=34985)
+Ηello from child 15 (pid=34986)
+Ηello from child 16 (pid=34987)
+Ηello from child 17 (pid=34988)
+Ηello from child 18 (pid=34989)
+Ηello from child 19 (pid=34990)
+Ηello from child 20 (pid=34991)
+Ηello from child 21 (pid=34992)
+
+
+
+./pipe_02 <noargs> runs the process creating a simple pipe, to which the parent process writes (line 28), which the child process reads. Its output is "message through pipe"
+
+./signal [-10] <COMMAND> runs the <COMMAND> as a child process, with an optional timeout specified by the -10 flag (default is 10 seconds). If the child process does not complete within the specified time, it is terminated using the SIGKILL signal. Its output is "Executing <COMMAND" along with whatever <COMMAND> might produce.
+
+
+
+
+
+
